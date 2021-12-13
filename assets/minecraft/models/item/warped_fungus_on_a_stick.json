@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/warped_fungus_on_a_stick"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":11803}, "model": "ability/guardian"},
+    {"predicate": {"custom_model_data":11804}, "model": "ability/shulker"},
+    {"predicate": {"custom_model_data":11805}, "model": "ability/dragon"},
+    {"predicate": {"custom_model_data":11905}, "model": "ability/dragon_sneak"},
+    {"predicate": {"custom_model_data":11806}, "model": "ability/evoker"},
+    {"predicate": {"custom_model_data":11807}, "model": "ability/bat"},
+    {"predicate": {"custom_model_data":11809}, "model": "ability/fox"}
+  ]
+}
