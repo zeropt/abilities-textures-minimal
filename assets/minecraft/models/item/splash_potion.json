@@ -5,6 +5,7 @@
     "layer1": "minecraft:item/splash_potion"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":11810}, "model": "ability/spider"}
+    {"predicate": {"custom_model_data":11810}, "model": "ability/spider"},
+    {"predicate": {"custom_model_data":11910}, "model": "ability/spider"}
   ]
 }
