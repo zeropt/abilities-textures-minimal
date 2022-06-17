@@ -10,6 +10,7 @@
     {"predicate": {"custom_model_data":11806}, "model": "ability/evoker"},
     {"predicate": {"custom_model_data":11807}, "model": "ability/bat"},
     {"predicate": {"custom_model_data":11809}, "model": "ability/fox"},
+    {"predicate": {"custom_model_data":11811}, "model": "ability/axolotl"},
     {"predicate": {"custom_model_data":11905}, "model": "ability/dragon_sneak"}
   ]
 }
